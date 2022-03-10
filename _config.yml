@@ -28,7 +28,7 @@ twitter_username:
 github_username: Huong-Dan
 
 # Build settings
-theme: moonwalk
+remote_theme: moonwalk
 plugins:
     - jekyll-feed
 # Exclude from processing.
