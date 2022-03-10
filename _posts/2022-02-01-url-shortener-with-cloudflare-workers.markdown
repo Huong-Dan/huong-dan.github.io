@@ -20,6 +20,7 @@ categories: cloudflare workers
     })(window, document, "clarity", "script", "amc2apgl8x");
 
   </script>
+  {% seo %}
   </head>
 <div class="content card">
 <h2 id="steps">Các Bước Thực Hiện</h2>

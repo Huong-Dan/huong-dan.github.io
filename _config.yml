@@ -32,6 +32,7 @@ theme: minima
 plugins:
     - jekyll-sitemap
     - jekyll-feed
+    - jekyll-seo-tag
 
 defaults:
     -
