@@ -28,7 +28,7 @@ twitter_username:
 github_username: Huong-Dan
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
     - jekyll-feed
 # Exclude from processing.
